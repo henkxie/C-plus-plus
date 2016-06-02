@@ -1,2 +1,2 @@
 
-简单的实现了string类！
+C plus plus
